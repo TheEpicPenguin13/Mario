@@ -1,0 +1,23 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEpicPenguin13/Mario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheEpicPenguin13/Mario/issues"
+  },
+  "homepage": "https://github.com/TheEpicPenguin13/Mario#readme",
+  "dependencies": {
+    "serve": "^10.1.2"
+  }
+}
